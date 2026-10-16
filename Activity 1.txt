@@ -1,0 +1,8 @@
+BASIC GIT COMMANDS
+
+git init — Initialize a Git repository.
+git status — Check the status of files.
+git add — Prepare files for a commit.
+git commit — Save changes in the repository history.
+git push — Upload commits to GitHub.
+git pull — Retrieve and integrate changes from GitHub.
